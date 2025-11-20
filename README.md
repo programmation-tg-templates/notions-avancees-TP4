@@ -1,4 +1,4 @@
-# Notions avancées - TP4 - Filtrer les produits disponibles et applicables à une promotion - filter()
+# Notions avancées - TP4 - Filtrer les produits disponibles et applicables à une promotion avec filter()
 
 ## Consignes
 
@@ -34,7 +34,5 @@ Vous devez préparer une liste de produits éligibles à une promotion pour l’
 Avec le tableau de produits ci-dessus, l'appel de `getPromotionProducts(products)` devrait retourner :
 
 ```js
-[
-  { name: "Stylo", price: 1.5, stock: 10, category: "papeterie", onSale: true }
-]
+[{ name: "Stylo", price: 1.5, stock: 10, category: "papeterie", onSale: true }];
 ```
